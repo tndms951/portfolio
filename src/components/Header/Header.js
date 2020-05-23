@@ -12,7 +12,7 @@ class Header extends Component {
     return (
       <div className="nav">
         <div className="logo">
-          <a href="#">JISU1</a>
+          <a href="#">JISU</a>
         </div>
         <div className="menu">
           <a href="#">

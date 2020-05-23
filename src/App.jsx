@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react';
-import Header from './components/Header/Header';
-import Text from './components/content/Text';
+import Header from './Components/Header/Header';
+import Text from './Components/Content/Text';
 
 function App(props) {
   return (
