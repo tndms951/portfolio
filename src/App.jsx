@@ -7,6 +7,7 @@ function App(props) {
     <div>
       <Header />
       <Text />
+     <div>hello</div>
     </div>
   );
 }
