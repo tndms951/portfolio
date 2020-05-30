@@ -1,0 +1,93 @@
+a {
+  Text-Decoration: none;
+  color: inherit;
+}
+li {list-style: none;}
+
+body {
+  
+  background-color: #fff;
+  margin:0; padding:0; 
+}
+
+
+.all {
+  display: flex;
+}
+.box_one {
+  width: 50%;
+}
+.wrap {
+  display: flex;
+}
+.box_wrap01 {
+  width: 50%;
+}
+.box_wrap01 a {
+  width: 100%;
+  display: block;
+}
+.box_wrap01 img {
+  width: 100%;
+  vertical-align: bottom;
+}
+
+.box_wrap02 {
+  width: 50%;
+}
+.box_wrap02 a {
+  width: 100%;
+  display: block;
+}
+.box_wrap02 img {
+  width: 100%;
+  vertical-align: bottom;
+}
+
+.wrap02 {
+  display: flex;
+}
+
+.box_wrap03 {
+  width: 50%;
+}
+.box_wrap03 a {
+  width: 100%;
+  display: block;
+}
+.box_wrap03 img {
+  width: 100%;
+  vertical-align: bottom;
+}
+
+.box_wrap04 {
+  width: 50%;
+}
+.box_wrap04 a {
+  width: 100%;
+  display: block;
+}
+.box_wrap04 a img {
+  width: 100%;
+  vertical-align: bottom;
+}
+
+.box_two {
+  width: 50%;
+}
+
+.box_wrap05 a{
+  display: block;
+}
+.box_wrap05 img {
+  width: 100%;
+  vertical-align: bottom;
+}
+
+
+/* 두번째박스 */
+
+
+
+
+

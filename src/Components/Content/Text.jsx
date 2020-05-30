@@ -72,7 +72,18 @@ class Text extends Component {
         <div className="under_text">
           <h5> Hello, This is my personal portfolio area.</h5>
         </div>
+
+        <div className="mouse">
+        <div className="scroll">
+          
+        </div>
       </div>
+
+
+      </div>
+
+     
+       
     );
   }
 }
