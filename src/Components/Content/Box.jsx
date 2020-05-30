@@ -51,6 +51,7 @@ function Box() {
       <div className="box_wrap05">
           <a href="#">
               <img src={img4} alt={"img4"}/>
+              <h1/>
          </a>
       </div>
     </div>
